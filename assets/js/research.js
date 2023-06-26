@@ -9,7 +9,7 @@ const research = [
       "Avishek Bhattacharjee",
     conferences:
       "IEEE International Conference 2022",
-    researchYr: 2020,
+    researchYr: 2022,
     citebox: "popup1",
     image: "assets/images/research-page/research1.jpeg",
     citation: {
@@ -25,9 +25,9 @@ const research = [
     title: "Evolutions of Intel processors",
     authors:
       "Avishek Bhattacharjee, Tiyasha Ghosh",
-    journal:
+    conferences:
       "Journal of Computational Science",
-    researchYr: 2020,
+    researchYr: 2022,
     citebox: "popup2",
     image: "assets/images/research-page/research2.jpeg",
     citation: {
@@ -35,7 +35,7 @@ const research = [
         "Ghosh, Tiyasha & Bhattacharjee, Avishek. (2022). Evolutions of Intel processors. Journal of Computational Science. 10.5281/zenodo.7236101.",
     },
     abstract:
-      "In the 1950s, the idea of a computer processor was put forth and applied to computing power. Here, we examine the development of Intel's processors. It has been demonstrated that manufacturers alter the specifications, functionality, and capacity during the "from old to new" transition. It has a direct impact on the processing power and performance of the computer. Due to their widespread use and the availability of comprehensive descriptions of all technical specifications, Intel processors are utilised as the primary illustration.",
+      "In the 1950s, the idea of a computer processor was put forth and applied to computing power. Here, we examine the development of Intel's processors. It has been demonstrated that manufacturers alter the specifications, functionality, and capacity during the from old to new transition. It has a direct impact on the processing power and performance of the computer. Due to their widespread use and the availability of comprehensive descriptions of all technical specifications, Intel processors are utilised as the primary illustration.",
     absbox: "absPopup2",
   },
 
