@@ -4,38 +4,38 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "Design the mathematical models in the MATLAB Simulator which executes ASK, FSK, and PSK",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "Avishek Bhattacharjee",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "IEEE International Conference 2022",
     researchYr: 2020,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "assets/images/research-page/research1.jpeg",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Bhattacharjee, Avishek. (2022). Design the mathematical models in the MATLAB Simulator which executes ASK, FSK, and PSK. 10.13140/RG.2.2.25187.63527. ",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "This report will show you the process of drawing mathematical models using the MATLAB simulator and seeing the waveform responses. Open the MATLAB library in the MATLAB Simulink and search for the following things given on the MATLAB model: change the value by seeing the discussion; see the waveform responses on the scope.",
     absbox: "absPopup1",
   },
 
   {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    title: "Evolutions of Intel processors",
     authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
-    conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "Avishek Bhattacharjee, Tiyasha Ghosh",
+    journal:
+      "Journal of Computational Science",
     researchYr: 2020,
     citebox: "popup2",
-    image: "assets/images/research-page/crossLingual.png",
+    image: "assets/images/research-page/research2.jpeg",
     citation: {
       vancouver:
-        "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Ghosh, Tiyasha & Bhattacharjee, Avishek. (2022). Evolutions of Intel processors. Journal of Computational Science. 10.5281/zenodo.7236101.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 2",
+      "In the 1950s, the idea of a computer processor was put forth and applied to computing power. Here, we examine the development of Intel's processors. It has been demonstrated that manufacturers alter the specifications, functionality, and capacity during the "from old to new" transition. It has a direct impact on the processing power and performance of the computer. Due to their widespread use and the availability of comprehensive descriptions of all technical specifications, Intel processors are utilised as the primary illustration.",
     absbox: "absPopup2",
   },
 
