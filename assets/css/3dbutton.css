@@ -15,6 +15,7 @@
     transition: transform 0.5s;
     cursor: pointer;
     overflow: hidden;
+    padding: 10px 20px; /* Adjust the padding to increase button length */
   }
   
   /* Hire Me Button */
@@ -37,6 +38,7 @@
     text-align: center;
     font-weight: bold;
     transition: transform 0.5s;
+    font-family: Lora, serif; /* Set the font family to Lora */
   }
   
   /* Button hover state */
@@ -72,4 +74,5 @@
     vertical-align: middle;
     margin-right: 5px; /* Adjust the spacing between the logo and text */
   }
+  
   
