@@ -11,7 +11,7 @@ const research = [
       "IEEE International Conference 2022",
     researchYr: 2022,
     citebox: "popup1",
-    image: "assets/images/research-page/research1.jpeg",
+    image: "assets/images/research-page/crossLingual.png",
     citation: {
       vancouver:
         "Bhattacharjee, Avishek. (2022). Design the mathematical models in the MATLAB Simulator which executes ASK, FSK, and PSK. 10.13140/RG.2.2.25187.63527. ",
@@ -29,7 +29,7 @@ const research = [
       "Journal of Computational Science",
     researchYr: 2022,
     citebox: "popup2",
-    image: "assets/images/research-page/research2.jpeg",
+    image: "assets/images/research-page/semanticSegmentation.png",
     citation: {
       vancouver:
         "Ghosh, Tiyasha & Bhattacharjee, Avishek. (2022). Evolutions of Intel processors. Journal of Computational Science. 10.5281/zenodo.7236101.",
