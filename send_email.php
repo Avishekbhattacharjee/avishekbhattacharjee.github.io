@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST['message'];
 
     // Create the email content
-    $to = "wbavishek@gmail.com";
+    $to = "wbavishek@gmail.com"; // Enter your desired email address here
     $subject = "New Contact Form Submission";
     $body = "Name: $name\nEmail: $email\nServices: $services\nMessage: $message";
     $headers = "From: $email";
@@ -20,3 +20,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 ?>
+
