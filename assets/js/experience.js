@@ -68,13 +68,13 @@ const volunteershipcards = [
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
   {
-    title: "StudentCode-in 2020",
+    title: "StudentCode-in 2022",
     cardImage: "assets/images/experience-page/2.jpg",
     description:
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
   {
-    title: "PClub Summer Of Code 2020",
+    title: "PClub Summer Of Code 2022",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
       "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
