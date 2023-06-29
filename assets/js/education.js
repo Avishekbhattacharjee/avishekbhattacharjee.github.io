@@ -16,7 +16,7 @@ const moocscards = [
   },
   {
     title: "LFS101x: Introduction to Linux",
-    cardImage: "assets/images/education-page/linux.svg",
+    cardImage: "assets/images/education-page/edx.svg",
     moocLink: "https://courses.edx.org/certificates/d091d47bd4ea49a083ae1932a66b7022",
   },
   {

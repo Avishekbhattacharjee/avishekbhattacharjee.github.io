@@ -41,110 +41,41 @@ const research = [
 
   {
     title:
-      "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
-    authors: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis",
+      "Insulated Gate Bipolar Junction (IGBT)",
+    authors: "Avishek Bhattacharjee",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "HETC College CA2 Assignment",
+    researchYr: 2022,
     citebox: "popup3",
     image: "assets/images/research-page/wordRepresentation.png",
     citation: {
       vancouver:
-        "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Bhattacharjee, Avishek. (2022). Insulated Gate Bipolar Junction (IGBT). 10.5281/zenodo.7038653.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 3",
+      "IGBT (Insulated Gate Bipolar Junction) is the combination of MOSFET and BJT. It has low input impedance like MOSFET and less power loss like BJT. In order to achieve better on-state and switching losses, a number of fine pattern and Narrow Mesa IGBT cell architectures with sub-m trench and mesa dimensions have recently been proposed. In many industrial sectors nowadays, IGBT is one of the power semiconductors that is most frequently employed. New IGBT models are proposed to fulfil the requirements of a product and maintain the state of the art because different types of applications always have distinct product requirements. This study highlights some of the most important features of the IGBT with structures, one of the most prevalent instances, as well as working principles of IGBT based on structure and circuit.",
     absbox: "absPopup3",
   },
 
   {
     title:
-      "A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking",
+      "APPLICATIONS OF BJT IN CE AMPLIFIER",
     authors:
-      "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou",
+      "Avishek Bhattacharjee",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "IEEE Solid State Circuit Society Kolkata Chapter Conference 2022",
+    researchYr: 2022,
     citebox: "popup4",
     image: "assets/images/research-page/dialogueState.png",
     citation: {
       vancouver:
-        "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Bhattacharjee, Avishek & Sarnakar, Susmita. (2022). APPLICATIONS OF BJT IN CE AMPLIFIER. 10.13140/RG.2.2.35858.53441.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 4",
+      "One of the three fundamental single-stage bipolar-junction-transistor (BJT) amplifier topologies in electronics is the common-emitter amplifier, which is commonly applied as a voltage amplifier. Bipolar junction transistors, also referred to as BJTs, can function as an oscillator, filter, rectifier, amplifier, and switch. Here, we gracefully cover the CE amplifier section.",
     absbox: "absPopup4",
   },
 
-  {
-    title: "Dual Super-Resolution Learning for Semantic Segmentation",
-    authors: "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi",
-    conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
-    citebox: "popup5",
-    image: "assets/images/research-page/semanticSegmentation.png",
-    citation: {
-      vancouver:
-        "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 5",
-    absbox: "absPopup5",
-  },
-
-  {
-    title: "Deep Unfolding Network for Image Super-Resolution",
-    authors: "Zhang, Kai and Van Gool, Luc and Timofte, Radu",
-    conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
-    citebox: "popup6",
-    image: "assets/images/research-page/deepNetwork.png",
-    citation: {
-      vancouver:
-        "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 6",
-    absbox: "absPopup6",
-  },
-
-  {
-    title:
-      "Unsupervised Learning for Intrinsic Image Decomposition From a Single Image",
-    authors: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng",
-    conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
-    citebox: "popup7",
-    image: "assets/images/research-page/imageDecomposition.png",
-    citation: {
-      vancouver:
-        "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 7",
-    absbox: "absPopup7",
-  },
-  {
-    title:
-      "Forward and Backward Information Retention for Accurate Binary Neural Networks",
-    authors:
-      "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan",
-    conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
-    citebox: "popup8",
-    image: "assets/images/research-page/neuralNetworks.jpg",
-    citation: {
-      vancouver:
-        "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 8",
-    absbox: "absPopup8",
-  },
 ];
 AOS.init();
 const fillData = () => {
