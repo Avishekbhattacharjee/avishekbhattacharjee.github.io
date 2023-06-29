@@ -10,62 +10,36 @@ const moocscards = [
     moocLink: "https://courses.edx.org/certificates/4d315bd2f7ca4d32a83873e761462c65",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "BNET001: Preparing to Network in English",
+    cardImage: "assets/images/education-page/WU.svg",
+    moocLink: "https://courses.edx.org/certificates/ced6852fb3b7432a86159f10080837e2",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "LFS101x: Introduction to Linux",
+    cardImage: "assets/images/education-page/linux.svg",
+    moocLink: "https://courses.edx.org/certificates/d091d47bd4ea49a083ae1932a66b7022",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "PH125.5x: Data Science: Productivity Tools",
+    cardImage: "assets/images/education-page/harvard.svg",
+    moocLink: "https://courses.edx.org/certificates/99f23e19edb6412a86297fd3c43b0eb1",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "AI0101EN: AI for Everyone: Master the Basics",
+    cardImage: "assets/images/education-page/ibm.svg",
+    moocLink: "https://courses.edx.org/certificates/3c9830f3ebbb4455825c71b92a87facb",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
+    title: "FC1x: Fat Chance: Probability from the Ground Up",
+    cardImage: "assets/images/education-page/harvard.svg",
     moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
   },
   {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    title: "DL0101EN: Deep Learning Fundamentals with Keras",
+    cardImage: "assets/images/education-page/harvard.svg",
+    moocLink: "https://courses.edx.org/certificates/832d8449d4804905a482acfc9fba9abe",
   },
-  {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
-  },
+  
 ];
 
 const experience = [
