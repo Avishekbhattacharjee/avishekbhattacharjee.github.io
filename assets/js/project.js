@@ -6,12 +6,12 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
-    cardImage: "assets/images/project-page/quiz.jpg",
+    title: "IOT-Based Smart Door Lock System",
+    cardImage: "assets/images/project-page/amartd.png",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://github.com/Teameviral/Smartdoorlocksystem/wiki",
+    Githublink: "https://github.com/Teameviral/Smartdoorlocksystem",
   },
   {
     title: "Chess Engine",
