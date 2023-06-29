@@ -80,7 +80,7 @@
 		</section>
 		<section class="contact-section px-3 py-5 p-md-5">
 			<div class="container">
-				<form id="contact-form" class="contact-form col-lg-8 mx-lg-auto" method="post" action="submitForm(event)">
+				<form id="contact-form" class="contact-form col-lg-8 mx-lg-auto" method="post" action="https://formspree.io/f/mpzgayqj">
 					<h3 class="text-center mb-3">Get In Touch</h3>
 					<div class="row g-3">
 						<div class="col-12 col-md-6">
@@ -117,39 +117,6 @@
 						</div>
 					</div><!--//form-row-->
 				</form>
-				<script src="https://cdn.emailjs.com/sdk/2.6.4/email.min.js"></script>
-<script>
-  function submitForm(event) {
-    event.preventDefault();
-
-    // Get the form data
-    var form = document.getElementById("contact-form");
-    var name = form.elements["name"].value;
-    var email = form.elements["email"].value;
-    var services = form.elements["services"].value;
-    var message = form.elements["message"].value;
-
-    // Replace with your EmailJS User ID
-    var userId = "CVZoudmVi-WlMdbC2";
-    // Replace with your EmailJS email template ID
-    var templateId = "template_5syk0nu";
-
-    // Send email using EmailJS
-    emailjs.send("service_gwblkjr", templateId, {
-      name: name,
-      email: email,
-      services: services,
-      message: message
-    }, userId)
-      .then(function(response) {
-        console.log("Email sent successfully!", response.status, response.text);
-        // You can add custom success handling here
-      }, function(error) {
-        console.error("Error sending email:", error);
-        // You can add custom error handling here
-      });
-  }
-</script>
 
 			</div><!--//container-->
 			
