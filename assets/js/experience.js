@@ -5,25 +5,18 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "CEO and Founder",
-    cardImage: "assets/images/experience-page/tecosys.png",
+    title: "AI Developer Intern",
+    cardImage: "assets/images/equicertificate.png",
     place: "Tecosys",
-    time: "(May, 2020 - present)",
-    desp: "<li>I worked for my own organisation as a CEO and developed Telegram bots and provided them to customers.</li>",
+    time: "(Sep 2023 - Aug 2023)",
+    desp: "<li>I Developed an AI-Based Virtual Assistant that can do different types of works using NLP, AI and ML.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2023)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
-  },
-  {
-    title: "Research Intern",
+    title: "Campus Ambassador",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    time: "(Dec, 19 - Jan, 22)",
+    desp: "<li>Worked as an campus ambassador</li> Circulate different types of messages to the wide community<li></li>",
   },
 ];
 
